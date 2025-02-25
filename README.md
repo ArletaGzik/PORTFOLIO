@@ -13,8 +13,15 @@
 - GitHub (version control, documentation)
 - Excel (test case tracking)
   
-📂 **My Portfolio:** - [📋 Test Cases](./Test-Cases) 
-- 🐛 [Bug Reports](./Bug-Reports)
-- 📊 [Test Documentation](./Documentation)
+📂 **My Portfolio:** 
+📂 **My Portfolio:**  
+
+- [📋 Test Cases](./Test-Cases)  
+
+- 🐛 [Bug Reports](./Bug-Reports)  
+
+- 📊 [Test Documentation](./Documentation)  
+
+- 🗂️ [SQL Queries](./SQL)  
   
 🚀 **I believe that thorough testing is the key to reliable software!**  

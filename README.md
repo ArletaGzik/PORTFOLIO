@@ -10,7 +10,7 @@
 - JIRA, TestRail, Qase, Confluence (test management)
 - Postman ( REST API testing)
 - SQL
-- Trello, Slack, Zoom, Microsoft Teams
+- Trello, Slack, Telegram, Zoom, Microsoft Teams (project management and communication within team)
 - GitHub (version control, documentation)
 - Excel (test case tracking)
   
@@ -24,7 +24,7 @@
 
 📂 **My Portfolio:** 
 
-- 📋 [Test Cases](./Test-Cases)  
+- 📋 [Test Cases](./)  
 
 - 🐛 [Bug Reports](./Bug-Reports)  
 
@@ -33,5 +33,9 @@
 - 🗂️ [SQL Queries](./SQL)
 
 - ☄️ [REST API](./Postman)
-  
+
+👩🏻‍🎓 **My Courses and Certificates:** 
+
+
+
 🚀 **I believe that thorough testing is the key to reliable software!**  

@@ -26,7 +26,7 @@
 
 - 📋 [Test Cases](./)  
 
-- 🐛 [Bug Reports](https://docs.google.com/document/d/1RKVgzJEROPRGSACmlYtthmdMnzrnZ_Z2/edit?usp=share_link&ouid=114172809127780612782&rtpof=true&sd=true)  
+- 🐛 [Bug Reports](https://drive.google.com/drive/folders/1ENhBqoVO_35Vk-lBRQA7GJJ3Kmo6SAXT?usp=sharing)
 
 - 📊 [Test Documentation](./Documentation)  
 

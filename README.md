@@ -6,22 +6,32 @@
 - Testing web and mobile applications
 - Validating compliance with business requirements
 
-🧰 **Tools I work with:** 
-- JIRA, TestRail, Qase (test management)
-- Postman (API testing)
+🛠️ **Tools I work with:** 
+- JIRA, TestRail, Qase, Confluence (test management)
+- Postman ( REST API testing)
 - SQL
+- Trello, Slack, Zoom, Microsoft Teams
 - GitHub (version control, documentation)
 - Excel (test case tracking)
   
-📂 **My Portfolio:** 
-📂 **My Portfolio:**  
+  ** Soft skills:**
+💡 analytical thinking
+📈 looking for effective solutions
+🎨 creativity
+🔮 inquisitiveness
+🗿 patience
+🔎 accuracy
 
-- [📋 Test Cases](./Test-Cases)  
+📂 **My Portfolio:** 
+
+- 📋 [Test Cases](./Test-Cases)  
 
 - 🐛 [Bug Reports](./Bug-Reports)  
 
 - 📊 [Test Documentation](./Documentation)  
 
-- 🗂️ [SQL Queries](./SQL)  
+- 🗂️ [SQL Queries](./SQL)
+
+- ☄️ [REST API](./Postman)
   
 🚀 **I believe that thorough testing is the key to reliable software!**  

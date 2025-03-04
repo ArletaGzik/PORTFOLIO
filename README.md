@@ -14,7 +14,7 @@
 - GitHub (version control, documentation)
 - Excel (test case tracking)
   
-  ** Soft skills:**
+🧠 **Soft Skills:** 
 💡 analytical thinking
 📈 looking for effective solutions
 🎨 creativity

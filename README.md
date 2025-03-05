@@ -1,6 +1,6 @@
 👋 Hi! I'm Arleta Gzik– I am Junior QA Manual at entry-level, eager to develop my technical skills and grow professionally. I have experience in projects that paid attention to the quality, details, and process-oriented mindset. I am a holder of the ISTQB Certified Tester FL certificate.    
 
-🚀 **I believe that thorough testing is the key to reliable software!** 
+🚀 🤓 **I believe that thorough testing is the key to reliable software!** 
 
 💼 **I specialize in:** 
 - Manual testing (functional, regression, exploratory)
@@ -59,3 +59,26 @@
 - preparation for ISTQB certification
 
 ✅ [SQL from scratch_My SQL_Udemy_Rafał Podraza](https://drive.google.com/file/d/1zT_JSJlVGHgZF2GzWbFSltV6laYxeyCY/view?usp=sharing)  
+
+- SQL language and MSQL 
+- executing queries: SELECT, INSERT, UPADE, DELETE
+- exploration functions e.g. MIN, MAX, COUNT, AVG i SUM
+- merging tables
+- types od data in SQL
+- Dowiesz się jak tworzyć warunki CONSTRAINT, CHECK
+- menagement of databases and tables
+- Nauczysz się grupować dane za pomocą GROUP BY i HAVING
+- Dowiesz się jak sortować dane za pomocą ORDER BY
+- Będziesz potrafił tworzyć kopie zapasowe bazy danych
+  
+✅ [Postman from the ground up_Udemy_Rafał Podraza](https://drive.google.com/file/d/1WT9uxaAjCMALJ1fcCIXSTBBAZwYDsH-f/view?usp=sharing)  
+
+- API testing
+- create queries using GET, POST, PUT, DELETE methods
+- passing parameters to a query
+- passing headers
+- creating global, environment, in-collection variables
+- implementing API automated tests
+- creating scripts executed before a query
+- testing with Postman Monitors
+- Newman and Mock Server tools

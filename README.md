@@ -1,4 +1,6 @@
-👋 Hi! I'm Arleta Gzik– I am Junior QA Manual at entry-level, eager to develop my technical skills and grow professionally. I have experience in projects that paid attention to the quality, details, and process-oriented mindset. I am a holder of the ISTQB Certified Tester FL certificate.  
+👋 Hi! I'm Arleta Gzik– I am Junior QA Manual at entry-level, eager to develop my technical skills and grow professionally. I have experience in projects that paid attention to the quality, details, and process-oriented mindset. I am a holder of the ISTQB Certified Tester FL certificate.    
+
+🚀 **I believe that thorough testing is the key to reliable software!** 
 
 💼 **I specialize in:** 
 - Manual testing (functional, regression, exploratory)
@@ -37,8 +39,6 @@
 
 👩🏻‍🎓 **My Courses and Certificates:** 
 
-- 
+- [ISTQB Certified Tester Foundation Level Syllabus ver.4.0](https://drive.google.com/file/d/1AhcRM5SgD-3cYsA_0wwX7fHEumS8x09E/view?usp=sharing)
 
-
-
-🚀 **I believe that thorough testing is the key to reliable software!**  
+ 

@@ -40,6 +40,7 @@
 👩🏻‍🎓 **My Courses and Certificates:** 
 
 ✅ [ISTQB Certified Tester Foundation Level Syllabus ver.4.0](https://drive.google.com/file/d/1AhcRM5SgD-3cYsA_0wwX7fHEumS8x09E/view?usp=sharing)  
+
 - basics of testing
 - testing in the software lifecycle
 - static testing
@@ -47,4 +48,14 @@
 - test management
 - tools to support testing
 
-✅ [QA Manual_GoIT](https://drive.google.com/file/d/1UE-0AAWiPQ3GYd-rBi7dfAGwVm-zBAE2/view?usp=sharing) 
+✅ [QA Manual_GoIT](https://drive.google.com/file/d/1UE-0AAWiPQ3GYd-rBi7dfAGwVm-zBAE2/view?usp=sharing)  
+
+- basic foundations of testing, development of test documentation  
+- classification and stages of testing, practice, documentation testing  
+- application architecture, practice, Postman  
+- testing techniques    
+- SQL, practice and working with the SQL database  
+- tools to support testing
+- preparation for ISTQB certification
+
+✅ [SQL from scratch_My SQL_Udemy_Rafał Podraza](https://drive.google.com/file/d/1zT_JSJlVGHgZF2GzWbFSltV6laYxeyCY/view?usp=sharing)  

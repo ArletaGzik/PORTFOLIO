@@ -39,6 +39,11 @@
 
 👩🏻‍🎓 **My Courses and Certificates:** 
 
-- [ISTQB Certified Tester Foundation Level Syllabus ver.4.0](https://drive.google.com/file/d/1AhcRM5SgD-3cYsA_0wwX7fHEumS8x09E/view?usp=sharing)
-
+✅ [ISTQB Certified Tester Foundation Level Syllabus ver.4.0](https://drive.google.com/file/d/1AhcRM5SgD-3cYsA_0wwX7fHEumS8x09E/view?usp=sharing)  
+- basics of testing
+- testing in the software lifecycle
+- static testing
+- testing techniques
+- test management
+- tools to support testing
  

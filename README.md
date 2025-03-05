@@ -15,12 +15,12 @@
 - Excel (test case tracking)
   
 🧠 **Soft Skills:** 
-💡 analytical thinking
-📈 looking for effective solutions
-🎨 creativity
-🔮 inquisitiveness
-🗿 patience
-🔎 accuracy
+💡 analytical thinking  
+📈 looking for effective solutions  
+🎨 creativity  
+🔮 inquisitiveness  
+🗿 patience  
+🔎 accuracy  
 
 📂 **My Portfolio:** 
 

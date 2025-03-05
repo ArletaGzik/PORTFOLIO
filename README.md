@@ -14,13 +14,14 @@
 - GitHub (version control, documentation)
 - Excel (test case tracking)
   
-🧠 **Soft Skills:**   
-💡 analytical thinking  
-📈 looking for effective solutions  
-🎨 creativity  
-🔮 inquisitiveness  
-🗿 patience  
-🔎 accuracy  
+🧠 **Soft Skills:**  
+
+- 💡 analytical thinking  
+- 📈 looking for effective solutions  
+- 🎨 creativity  
+- 🕵️‍♀️ inquisitiveness  
+- 🗿 patience  
+- 🔎 accuracy  
 
 📂 **My Portfolio:** 
 
@@ -35,6 +36,8 @@
 - ☄️ [REST API](./Postman)
 
 👩🏻‍🎓 **My Courses and Certificates:** 
+
+- 
 
 
 

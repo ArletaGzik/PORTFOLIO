@@ -46,4 +46,5 @@
 - testing techniques
 - test management
 - tools to support testing
- 
+
+✅ [QA Manual_GoIT](https://drive.google.com/file/d/1UE-0AAWiPQ3GYd-rBi7dfAGwVm-zBAE2/view?usp=sharing](https://drive.google.com/file/d/1UE-0AAWiPQ3GYd-rBi7dfAGwVm-zBAE2/view?usp=sharing)  

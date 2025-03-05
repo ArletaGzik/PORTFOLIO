@@ -14,7 +14,7 @@
 - GitHub (version control, documentation)
 - Excel (test case tracking)
   
-🧠 **Soft Skills:** 
+🧠 **Soft Skills:**   
 💡 analytical thinking  
 📈 looking for effective solutions  
 🎨 creativity  
@@ -24,11 +24,11 @@
 
 📂 **My Portfolio:** 
 
-- 📋 [Test Cases](./)  
+- 📋 [Test Cases](https://drive.google.com/drive/folders/1V4ZmBqiYVvE8XdFyDmCrc6i-5h_wd6vO?usp=sharing)  
 
 - 🐛 [Bug Reports](https://drive.google.com/drive/folders/1ENhBqoVO_35Vk-lBRQA7GJJ3Kmo6SAXT?usp=sharing)
 
-- 📊 [Test Documentation](./Documentation)  
+- 📊 [Test Documentation](https://drive.google.com/drive/folders/1PIiBblpPDtMKFnaNV0qhASSZn_oTIAoj?usp=sharing)  
 
 - 🗂️ [SQL Queries](./SQL)
 

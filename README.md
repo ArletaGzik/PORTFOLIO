@@ -33,9 +33,9 @@
 
 - 📊 [Test Documentation](https://drive.google.com/drive/folders/1PIiBblpPDtMKFnaNV0qhASSZn_oTIAoj?usp=sharing)  
 
-- 🗂️ [SQL Queries](./SQL)
+- 🗂️ [SQL Queries]()
 
-- ☄️ [REST API](./Postman)
+- ☄️ [REST API](https://drive.google.com/drive/folders/1ojXTyoVJRH5-9XSEsD1DiznEg5_V3IG9?usp=sharing)
 
 👩🏻‍🎓 **My Courses and Certificates:** 
 
@@ -61,15 +61,13 @@
 ✅ [SQL from scratch_My SQL_Udemy_Rafał Podraza](https://drive.google.com/file/d/1zT_JSJlVGHgZF2GzWbFSltV6laYxeyCY/view?usp=sharing)  
 
 - SQL language and MSQL 
-- executing queries: SELECT, INSERT, UPADE, DELETE
+- executing queries: SELECT, INSERT, UPADE, DELETE, GROUP BY, ORDER BY, HAVING
 - exploration functions e.g. MIN, MAX, COUNT, AVG i SUM
-- merging tables
+- merging tables: inner join, left join, right join, union
 - types od data in SQL
-- Dowiesz się jak tworzyć warunki CONSTRAINT, CHECK
+- creating conditions: CONSTRAINT, CHECK and other advanced functions:COALESCE, CAST, CONCAT
 - menagement of databases and tables
-- Nauczysz się grupować dane za pomocą GROUP BY i HAVING
-- Dowiesz się jak sortować dane za pomocą ORDER BY
-- Będziesz potrafił tworzyć kopie zapasowe bazy danych
+- database backup creation
   
 ✅ [Postman from the ground up_Udemy_Rafał Podraza](https://drive.google.com/file/d/1WT9uxaAjCMALJ1fcCIXSTBBAZwYDsH-f/view?usp=sharing)  
 

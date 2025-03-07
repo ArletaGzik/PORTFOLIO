@@ -33,7 +33,7 @@
 
 - 📊 [Test Documentation](https://drive.google.com/drive/folders/1PIiBblpPDtMKFnaNV0qhASSZn_oTIAoj?usp=sharing)  
 
-- 🗂️ [SQL Queries]()
+- 🗂️ [SQL Queries](https://drive.google.com/drive/folders/1zHd9JCbhhFEeT_8Z9aEo-Qs6gmYlgFy5?usp=sharing)
 
 - ☄️ [REST API](https://drive.google.com/drive/folders/1ojXTyoVJRH5-9XSEsD1DiznEg5_V3IG9?usp=sharing)
 
